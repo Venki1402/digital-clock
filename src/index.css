@@ -1,0 +1,17 @@
+body {
+  background-image: url("src/assets/Desktop Wallpaper 8.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+}
+
+.clock-container {
+  font-size: 6rem;
+  position: relative;
+  top: 48vh;
+  left: 5vw;
+  font-family: monospace;
+  font-weight: bold;
+}
